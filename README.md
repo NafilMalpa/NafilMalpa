@@ -12,7 +12,7 @@
 
   <p>
     Low Code Architect and Full-Stack Engineer with 5+ years of experience shipping production-grade applications across healthcare, logistics, and e-government domains.<br/>
-    I specialise in Agentic AI systems, RAG pipelines, and LLM-powered reasoning engines — blending deep engineering with real-world AI integration.
+    I specialise in Agentic AI systems, RAG pipelines, and LLM-powered reasoning engines - blending deep engineering with real-world AI integration.
   </p>
 
   <p>
