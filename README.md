@@ -16,7 +16,7 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/📍_Singapore-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/📍_Muscat-1e1e2e?style=for-the-badge" />
     <a href="mailto:nafilahmedmalpa@gmail.com"><img src="https://img.shields.io/badge/📧_nafilahmedmalpa@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(AI_&_Full--Stack)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🕌_Quran_AI_Builder_(Personal)-1e1e2e?style=for-the-badge" />
