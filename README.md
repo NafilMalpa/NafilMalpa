@@ -15,10 +15,12 @@
     I specialise in Agentic AI systems, RAG pipelines, and LLM-powered reasoning engines - blending deep engineering with real-world AI integration.
   </p>
 
-  <p>
+ <p>
+    <img src="https://img.shields.io/badge/📍_Muscat-1e1e2e?style=for-the-badge" />
     
     <a href="mailto:nafeelmalpa42@gmail.com"><img src="https://img.shields.io/badge/📧_nafeelmalpa42@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(AI_&_Full--Stack)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🕌_Quran_AI_Builder_(Personal)-1e1e2e?style=for-the-badge" />
     
   </p>
 
